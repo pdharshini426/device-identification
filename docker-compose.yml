@@ -1,0 +1,17 @@
+version: "3.8"
+
+services:
+  questdb:
+    image: questdb/questdb:latest
+    container_name: questdb
+    restart: unless-stopped
+
+    ports:
+      - "9000:9000"
+      - "9009:9009"   
+
+    volumes:
+      - ./questdb-data:/var/lib/questdb/db
+
+    environment:
+      QDB_LOG_LEVEL: INFO

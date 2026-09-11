@@ -1,0 +1,6 @@
+run_id,measurement_csv,MAC,device_name,duration,poll_interval,Water_amount
+4b54751a-13a1-464a-a726-0f36c5228d89,measurement_Steamer_1.csv,F0:24:F9:C2:1A:42,Steamer,300,0.1,0
+12e6bf3a-6b0d-4e38-83da-d34dbd3bf4f2,measurement_Steamer_2.csv,F0:24:F9:C2:1A:42,Steamer,300,0.1,0
+c0509199-3584-491e-a27b-3382a46c51fd,measurement_Steamer_3.csv,F0:24:F9:C2:1A:42,Steamer,300,0.1,0
+b172d003-1aea-4250-a26c-21690dd10e24,measurement_Steamer_4.csv,F0:24:F9:C2:1A:42,Steamer,300,0.1,0
+8d73ab27-25dc-4964-929d-01cd8ce9fabe,measurement_Steamer_5.csv,F0:24:F9:C2:1A:42,Steamer,300,0.1,0
